@@ -1,3 +1,7 @@
+"""The Number Guessing Game
+The goals were to make a game where the user has to guess a number and it gets progressively harder
+the project asks the user for a difficulty level then based on that a function creates a number for the user to remember
+and a time for the user to have for the guess, after the user remembers the number 3 times the difficulty increases"""
 import time #import the time module 
 import os #imports the os module 
 import secrets #imports the secrets module 
